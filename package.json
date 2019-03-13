@@ -20,5 +20,8 @@
   "homepage": "https://github.com/jksison/nodejs_server#readme",
   "devDependencies": {
     "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
